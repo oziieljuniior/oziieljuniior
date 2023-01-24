@@ -8,8 +8,6 @@ Trabalho com linguagens de programação:
 - MatLab
 - LaTex;
 - Microsoft Excel.
-
-No entanto, estou trabalhando com linguagens novas, com o intuito de desenvolver minhas habilidades na área de programação. As principais:
 - Java
 - Mysql
 
