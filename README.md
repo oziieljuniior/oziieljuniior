@@ -7,9 +7,11 @@ Trabalho com linguagens de programação:
 - R;
 - MatLab
 - LaTex;
-- Microsoft Excel.
-- Java
-- Mysql
+- Microsoft Excel;
+- Java;
+- Mysql.
+
+Atualmente estou cursando o mestrado em matemática aplicada pela Universidade Federal do Amazonas.
 
 Para contato, você pode me encontrar no twitter, ou enviar um email.
 - Twitter: @_darkcover;
