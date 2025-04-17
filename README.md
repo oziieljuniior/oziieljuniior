@@ -1,26 +1,59 @@
-[LeetCode - Oziel Ramos](https://leetcode.com/u/IGjV9NpLa9/)
+## 👋 Olá! Eu sou Oziel Ramos
 
-Olá, meu nome é Oziel Ramos. E por aqui você vai encontrar alguns trabalhos pessoais e profissionais desenvolvidos por mim, ou que tenha a minha contribuição.
+Sou formado em Matemática. Atuo na área de **Ciência de Dados**, com foco em projetos envolvendo:
 
-Formado em matemática, com experiência em projetos científcos e extensão. Trabalho com ciência de dados desde o começo de 2020 e venho aumentando meu repositório/portifólio no decorrer deste tempo, também, já tive cursos na graduação de linguagem de programação, aprendizado de máquina, inteligência artificial e análise de dados.
+- 📊 **Análise de dados temporais e preditivos**  
+- 🤖 **Redes neurais e aprendizado de máquina**  
+- 🧠 **Lógica fuzzy aplicada à previsão e classificação**  
+- 🔢 **Modelagem estatística e matemática aplicada**
 
-Trabalho com linguagens de programação:
-- Python;
-- R;
-- MatLab
-- LaTex;
-- Microsoft Excel;
-- Java;
-- Mysql.
+Desde 2020, venho construindo um portfólio técnico com projetos autorais, científicos e de extensão — muitos dos quais você pode conferir aqui no meu GitHub.
 
-Atualmente estou cursando o mestrado em matemática aplicada pela Universidade Federal do Amazonas.
+---
 
-Para contato, você pode me encontrar no twitter, ou enviar um email.
-- Twitter: @_darkcover;
-- Email 1: ozieljr14@gmail.com;
-- Email 2: oz.contato@outlook.com;
-- Email 3: oziel.contato@proton.me;
+## 🚀 Tecnologias & Ferramentas
 
-Desde já, agradeço pela visita e oportunidade.
+- **Linguagens:** Python, R, Java, LaTeX, MatLab, MySQL  
+- **Bibliotecas:** TensorFlow/Keras, scikit-learn, Pandas, NumPy, skfuzzy  
+- **Ferramentas:** Excel, Jupyter Notebook, VSCode, Git
 
-Oziel Junior
+---
+
+## 🧠 Conhecimentos Acadêmicos
+- **Aprendizado de Máquina**
+- **Inteligência Artificial**
+- **Análise de Séries Temporais**
+- **Modelagem Estatística**
+- **Otimização e Métodos Numéricos**
+
+---
+
+## 📂 Projetos em Destaque
+
+| Projeto | Descrição |
+|--------|-----------|
+| 🔮 **Preditor sequencial com redes neurais** | Análise e predição de eventos binários desbalanceados com janelas temporais e arquitetura customizada |
+| 🧹 **Classificação fuzzy de séries temporais** | Uso de lógica fuzzy para interpretar padrões em dados temporais |
+| 📈 **Modelos com Komogorov e Martin-Löf** | Avaliação de aleatoriedade e compressibilidade em sequências |  
+
+---
+
+## 📩 Contato
+
+Quer trocar uma ideia, colaborar ou fazer uma proposta?  
+Sinta-se à vontade para me chamar:
+
+- 📧 ozieljr14@gmail.com  
+- 📧 oz.contato@outlook.com  
+- 📧 oziel.contato@proton.me  
+- 👖 [Twitter: @_darkcover](https://twitter.com/_darkcover)
+
+---
+
+Obrigado pela visita!  
+**~ Oziel Ramos**
+
+---
+
+### Extras:
+- [📍 Meu perfil no LeetCode](https://leetcode.com/u/IGjV9NpLa9/)
