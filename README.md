@@ -42,11 +42,9 @@ Desde 2020, venho construindo um portfólio técnico com projetos autorais, cien
 
 Quer trocar uma ideia, colaborar ou fazer uma proposta?  
 Sinta-se à vontade para me chamar:
-
-- 📧 ozieljr14@gmail.com  
-- 📧 oz.contato@outlook.com  
+  
 - 📧 oziel.contato@proton.me  
-- 👖 [Twitter: @_darkcover](https://twitter.com/_darkcover)
+- 👖 [Twitter: @oziieljuniior](https://twitter.com/oziieljuniior)
 
 ---
 
